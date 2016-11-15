@@ -1,12 +1,12 @@
-# README
+# Vocab
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vocab is Ruby on Rails web site to help people to learn language's vocabs quicly.
 
 Things you may want to cover:
 
-* Ruby version
-
+* Ruby & Rails versions
+	- Ruby 2.3.0
+	- Rails 5.0.0.1
 * System dependencies
 
 * Configuration
